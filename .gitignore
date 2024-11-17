@@ -6,11 +6,13 @@ __pycache__/
 # Jetbrains
 .idea
 
+
 # Photos
+inputs
+outputs
 *.jpg
 *.png
 *.heic
-photos
 
 # C extensions
 *.so
